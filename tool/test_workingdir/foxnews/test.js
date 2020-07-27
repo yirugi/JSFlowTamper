@@ -1,0 +1,1 @@
+await page.goto('https://www.foxnews.com/entertainment/catherine-zeta-jones-daughter-looks-identical-to-the-actress-in-new-photo');

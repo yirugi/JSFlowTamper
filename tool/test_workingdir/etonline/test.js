@@ -1,0 +1,1 @@
+await page.goto('https://www.etonline.com/media/videos/clueless-turns-25-ets-time-on-set-of-the-90s-classic-149807');
